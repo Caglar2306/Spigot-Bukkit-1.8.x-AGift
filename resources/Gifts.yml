@@ -1,0 +1,7 @@
+Gifts:
+  Item:
+    Material: "DIRT"
+    Stack: 6
+  Item2:
+    Material: "GRASS"
+    Stack: 3
